@@ -1,0 +1,10 @@
+.Rhistory
+*.Rhistory
+# i use this pattern for old menu versions
+ingredients_*
+index-tiki.html
+font/*
+img/tiki_tiled_threequartersize.jpg
+
+
+

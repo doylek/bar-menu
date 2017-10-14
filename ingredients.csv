@@ -1,0 +1,57 @@
+Name,Ingredient,Amount,Unit,Family
+Billingsley Punch,gin,6,oz,Punch
+Billingsley Punch,aperol,2,oz,Punch
+Billingsley Punch,grapefruit,2,oz,Punch
+Billingsley Punch,lemon juice,2,oz,Punch
+Billingsley Punch,peychaud’s bitters,4,dash,Punch
+Billingsley Punch,soda,8,oz,Punch
+Billingsley Punch,sugar,12,cubes,Punch
+Negroni,gin,1.5,oz,Negroni
+Negroni,campari,1,oz,Negroni
+Negroni,vermouth,1,oz,Negroni
+Boulevardier,whiskey,2,oz,Negroni
+Boulevardier,compari,1,oz,Negroni
+Boulevardier,vermouth,1,oz,Negroni
+Femme Fatale,mezcal,1.5,oz,Negroni
+Femme Fatale,chocolate-infused campari,1,oz,Negroni
+Femme Fatale,vermouth,1,oz,Negroni
+Kingston Negroni,rum,1,oz,Negroni
+Kingston Negroni,vermouth,1,oz,Negroni
+Kingston Negroni,campari,1,oz,Negroni
+Americano,campari,1,oz,Negroni
+Americano,vermouth,1,oz,Negroni
+Americano,soda,2.5,oz,Negroni
+"Mänhättän, Sweden",aquavit,2,oz,Manhattans
+"Mänhättän, Sweden",lillet blanc,1,oz,Manhattans
+"Mänhättän, Sweden",peychaud’s bitters,2,dash,Manhattans
+"Manhattan, Ontario",canadian whiskey,2,oz,Manhattans
+"Manhattan, Ontario",vermouth,1,oz,Manhattans
+"Manhattan, Ontario",walnut biters,2,dash,Manhattans
+Manhattan,rye (or whatever),2,oz,Manhattans
+Manhattan,vermouth,1,oz,Manhattans
+Manhattan,angostura bitters,2,dash,Manhattans
+Mai Tai,dark rum,1,oz,Classics
+Mai Tai,rhum agricole,1,oz,Classics
+Mai Tai,lime,1,oz,Classics
+Mai Tai,cointreau,0.5,oz,Classics
+Mai Tai,orgeat,0.5,oz,Classics
+Hemmingway Daquiri,white rum,2,oz,Classics
+Hemmingway Daquiri,lime,0.75,oz,Classics
+Hemmingway Daquiri,maraschino liqueur,0.5,oz,Classics
+Hemmingway Daquiri,grapefruit,0.5,oz,Classics
+Aviation,gin,2,oz,Classics
+Aviation,maraschino liqueur,0.5,oz,Classics
+Aviation,crème de violette,0.25,oz,Classics
+Aviation,lemon,0.75,oz,Classics
+Bijou,gin,1,oz,Classics
+Bijou,vermouth,1,oz,Classics
+Bijou,green chartruese,1,oz,Classics
+Bijou,orange bitters,1,dash,Classics
+Last Word,gin,0.75,oz,Classics
+Last Word,maraschino liqueur,0.75,oz,Classics
+Last Word,green chartruese,0.75,oz,Classics
+Last Word,lime,0.75,oz,Classics
+Seelbach,bourbon,1,oz,Classics
+Seelbach,cointreau,0.5,oz,Classics
+Seelbach,peychaud’s bitters,3,dash,Classics
+Seelbach,angostura bitters,2,dash,Classics

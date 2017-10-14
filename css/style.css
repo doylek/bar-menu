@@ -1,0 +1,114 @@
+/*
+
+@font-face {
+  font-family: 'Inika';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Inika'), url(/font/t1.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Inika';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Inika'), url(/font/t2.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+@font-face {
+  font-family: 'Tiki';
+  src: url('/font/tiki.eot');
+  src: url('/font/tiki.eot?#iefix') format('embedded-opentype'),
+       url('/font/tiki.woff') format('woff'),
+       url('/font/tiki.ttf') format('truetype'),
+       url('/font/tiki.svg#Tiki') format('svg');
+}
+*/
+
+
+.container {
+  background-color: rgba(255, 255, 255, 0.95);;
+  background-image: url("https://www.transparenttextures.com/patterns/cream-paper.png");
+  margin: 40px auto 40px auto;
+  min-height: 80vh;
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 19px 38px 0px, rgba(0, 0, 0, 0.22) 0px 15px 12px 0px;
+}
+
+.maintitle {
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+  /*font-family: "Tiki", sans-serif;
+  color: #d3ac8b;
+  -webkit-text-stroke: 1.5px #512a09;*/
+  color: #c8102e;
+  /*-webkit-text-stroke: 1.5px #95000b;*/
+}
+
+@media (max-width: 779px) {
+  .maintitle {
+    padding: 40px 0 10px 0;
+  }
+  #menuBody {
+    padding-left: 0;
+  }
+  .drinkrow {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}
+@media (min-width: 780px) {
+  .maintitle {
+    padding: 40px 0 10px 25px;
+  }
+  #menuBody {
+    padding-left: 25px;
+  }
+  .drinkrow {
+    margin-left: 20px;
+  }
+}
+
+#menuBody {
+  padding-bottom: 40px;
+}
+
+.maintitle h1 {
+  font-size: 3.5rem;
+}
+
+.category {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #333;
+  font-size: 2rem;
+}
+
+.card {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px 0px, rgba(0, 0, 0, 0.23) 0px 6px 6px 0px;
+}
+
+.drinkrow {
+  padding-bottom: 20px;  
+}
+
+.drinkname{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.3rem;
+  margin-bottom: 6px;
+}
+
+.desc {
+  margin-left: 15px;
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
+body {
+  /*background-image: url("/img/tiki_tiled_threequartersize.jpg");
+  background-repeat: repeat;
+  font-family: "Inika", sans-serif;*/
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #333333;
+  background-image: url("/img/greyfloral_2X.png");
+}
